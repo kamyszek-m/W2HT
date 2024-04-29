@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://clnavsioq6jpt"]
+
+[ext_resource type="Script" path="res://Scenes/Main.gd" id="1_81nw4"]
+[ext_resource type="Texture2D" uid="uid://y0hieaps3tul" path="res://Map_data/region_map.png" id="2_v78vj"]
+
+[node name="Main" type="Node2D"]
+script = ExtResource("1_81nw4")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(-3, 6)
+scale = Vector2(1.00063, 1.00064)
+texture = ExtResource("2_v78vj")
+centered = false

@@ -1,0 +1,3 @@
+- Fix regions borders
+- Add zooming in/out
+- Add moving camera
