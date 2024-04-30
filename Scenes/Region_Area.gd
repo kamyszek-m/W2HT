@@ -14,7 +14,7 @@ func _process(delta):
 
 func _on_child_entered_tree(node):
 	if node.is_class("Polygon2D"):
-		node.color = Color(1, 1, 1, 1)
+		node.color = Color(1, 1, 1, 0.5)
 
 
 func _on_mouse_entered():

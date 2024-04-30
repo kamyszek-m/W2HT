@@ -1,3 +1,1 @@
 - Fix regions borders in  Map_data/region_map.png
-- Add zooming in/out
-- Add moving camera
