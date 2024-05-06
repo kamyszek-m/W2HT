@@ -1,0 +1,82 @@
+{
+	"#cd3333" : _[
+		"West Pomerania",
+		5,
+		0
+	],
+	"#4d91c0" : _[
+		"Pomerania",
+		5,
+		0
+	],
+	"#baa087" : _[
+		"Warmian Masurian",
+		5,
+		0
+	],
+	"#986ca1" : _[
+		"Podlachian",
+		5,
+		0
+	],
+	"#72b28d" : _[
+		"Masovian",
+		5,
+		0
+	],
+	"#3264c7" : _[
+		"Lodz",
+		5,
+		0
+	],
+	"#d9b401" : _[
+		"Kuyavian",
+		5,
+		0
+	],
+	"#a03500" : _[
+		"Greater Poland",
+		5,
+		0
+	],
+	"#f2f2f2" : _[
+		"Lubusz",
+		5,
+		0
+	],
+	"#fddbec" : _[
+		"Lower Silesia",
+		5,
+		0
+	],
+	"#e6d8bd" : _[
+		"Opole",
+		5,
+		0
+	],
+	"#ffffcd" : _[
+		"Silesia",
+		5,
+		0
+	],
+	"#fed9a5" : _[
+		"Lesser Poland",
+		5,
+		0
+	],
+	"#decce4" : _[
+		"Swietokrzyskie",
+		5,
+		0
+	],
+	"#cceac4" : _[
+		"Subcapathian",
+		5,
+		0
+	],
+	"#b3cee3" : _[
+		"Lublin",
+		5,
+		0
+	]
+}

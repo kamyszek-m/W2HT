@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cj0q6n26x3aeh"]
+
+[ext_resource type="Script" path="res://Levels/1. In-Game/Region_Area.gd" id="1_cjl77"]
+
+[node name="Area3D" type="Area3D"]
+script = ExtResource("1_cjl77")
